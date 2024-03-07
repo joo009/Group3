@@ -11,4 +11,3 @@ To participate in this workshop, you will need:
 #joo
 
 #jessica
-
