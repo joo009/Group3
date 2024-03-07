@@ -10,3 +10,4 @@ To participate in this workshop, you will need:
 
 
 #JessicaChen
+#LucaJarosz
