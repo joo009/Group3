@@ -10,8 +10,5 @@ To participate in this workshop, you will need:
 
 #joo
 
-ßnew text 
-
-test
-
 #jessica
+
