@@ -9,6 +9,6 @@ To participate in this workshop, you will need:
 - A PenPot account (create one at https://design.penpot.app/)
 
 #joo
-#luisa
+#louisa
 #luca
 #jessica
